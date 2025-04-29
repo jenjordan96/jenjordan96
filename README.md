@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenjordan96
-- 👀 I’m interested in a pententration tester
+- 👀 I’m interested becoming a PenTester
 - 🌱 I’m currently learning network security.
 - 📫 How to reach me: jennai.jordan@icloud.com
 - ⚡ Fun fact: I am a die hard Georiga Bulldawgs fan!
