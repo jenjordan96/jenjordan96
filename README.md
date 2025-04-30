@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @jenjordan96
-- 👀 I’m interested becoming a PenTester
-- 🌱 I’m currently learning network security.
-- 📫 How to reach me: jennai.jordan@icloud.com
-- ⚡ Fun fact: I am a die hard Georiga Bulldawgs fan!
+⚓️ Navy veteran | Cybersecurity Student | Future IAM Engineer
+
+📍 Based in Texas | Transitioning from Healthcare to IT
+
+🔒 Passionate about identity, access, and real-world security
+
+⚡ Building Python labs, hands-on projects, and certification-ready skills (Network+ → Security+ → SC-300)
+
+🛠️ Currently learning: Git, Python scripting, network troubleshooting, IAM concepts
+
+🎥 Documenting my journey for others taking the scenic route into tech — no shortcuts, just real work.
+
+🌱 Always learning. Always building. Always growing.
+
 
 <!---
 jenjordan96/jenjordan96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
