@@ -1,17 +1,16 @@
-⚓️ Navy veteran | Cybersecurity Student |
+⚓️ Navy veteran | Cybersecurity Analyst (SOC/Blue Team)
 
-📍 Based in Texas | Transitioning from Help Desk to Cybersecurity
+Based in Texas | Transitioning from Help Desk → Cybersecurity
 
-🔒 Passionate about identity, access, and real-world security
+🔒 Security Mission: Automating detection & response workflows to defend systems and data.
 
-⚡ Building Python labs, hands-on projects, and certification-ready skills (Network+ → Security+ → CySA+)
+🐍 Current Focus: Python scripting + Bash & PowerShell automation for log parsing, threat detection, and firewall hardening.
 
-🛠️ Currently learning: Git, Python, Bash and PowerShell scripting
+🎓 Cert Path: Network+ → Security+ → (in progress)
 
-🎥 Documenting my journey for others taking the scenic route into tech — no shortcuts, just real work.
+🚀 Portfolio: This GitHub hosts hands‑on security labs and projects showing real‑world skills (log parser, SIEM simulator, IP blocker).
 
-🌱 Always learning. Always building. Always growing.
-
+Always learning. Always building. Always defending.
 
 <!---
 jenjordan96/jenjordan96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
