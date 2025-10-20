@@ -1,12 +1,12 @@
-⚓️ Navy veteran | Cybersecurity Student | Future IAM Engineer
+⚓️ Navy veteran | Cybersecurity Student |
 
-📍 Based in Texas | Transitioning from Healthcare to IT
+📍 Based in Texas | Transitioning from Help Desk to Cybersecurity
 
 🔒 Passionate about identity, access, and real-world security
 
-⚡ Building Python labs, hands-on projects, and certification-ready skills (Network+ → Security+ → SC-300)
+⚡ Building Python labs, hands-on projects, and certification-ready skills (Network+ → Security+ → CySA+)
 
-🛠️ Currently learning: Git, Python scripting, network troubleshooting, IAM concepts
+🛠️ Currently learning: Git, Python, Bash and PowerShell scripting
 
 🎥 Documenting my journey for others taking the scenic route into tech — no shortcuts, just real work.
 
